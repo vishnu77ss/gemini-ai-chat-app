@@ -3,9 +3,9 @@
 A real-time, conversational chat application built with vanilla JavaScript that interacts with the powerful Google Gemini API.
 
 ![Project Screenshot or GIF]
-<img width="724" height="929" alt="Image" src="https://github.com/user-attachments/assets/71113ad2-9ff4-47f5-a702-3ab5087a0a0f" />
+<img width="797" height="905" alt="Image" src="https://github.com/user-attachments/assets/d8f6b672-20a1-4985-a775-4ad12b28539d" />
 
-<img width="1521" height="934" alt="Image" src="https://github.com/user-attachments/assets/8f233fc6-2a55-4a74-af89-b2fcf3243187" />
+<img width="1582" height="906" alt="Image" src="https://github.com/user-attachments/assets/8f2470c0-80f5-490a-b05e-7eaf65df16b1" />
 
 ## Description
 
